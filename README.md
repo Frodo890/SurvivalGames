@@ -1,0 +1,2 @@
+# SurvivalGames
+Survival Games plugin
